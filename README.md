@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Radhikajais123
+- 👋 Hi, I’m @Radhikaajaiswal123
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning React js and DSA.
 - 💞️ I’m looking to collaborate on fresher trainee frontened developer
